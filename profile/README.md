@@ -12,7 +12,7 @@ Forge is a [Cashu](https://cashu.space) eCash mint that issues US dollars and bi
 
 ## How it works
 
-1. **Pay in.** Pay a Lightning invoice for the dollars or bitcoin you want. Bitcoin can also arrive at an on-chain deposit address, and it counts after 3 confirmations.
+1. **Pay in.** Pay a Lightning invoice for the dollars or bitcoin you want. Bitcoin can also arrive at an on-chain deposit address, and it counts after 1 confirmation.
 2. **Hold.** The eCash lands in your Cashu wallet. The wallet's seed phrase restores it on a new phone.
 3. **Spend.** Send it to anyone, pay a Lightning invoice, or withdraw bitcoin to an on-chain address.
 
